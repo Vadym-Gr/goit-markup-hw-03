@@ -317,11 +317,11 @@ body {
     justify-content: space-between;
     align-items: space-between;
     align-content: space-between;
+    width: calc((100%-48px)/3);
 }
 
 .portfolio-section-item {
     background-color: #fff;
-    
     width: calc((100%-48px)/3);
 }
 
