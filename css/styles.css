@@ -315,13 +315,12 @@ body {
     row-gap: 48px;
     column-gap: 24px;
     justify-content: space-between;
-    align-items: space-between;
-    align-content: space-between;
+    
 }
 
 .portfolio-section-item {
     background-color: #fff;
-    width: calc((100%-48px)/3);
+    width: calc((100% - 48px) / 3);
 }
 
 .portfolio-section-img {
